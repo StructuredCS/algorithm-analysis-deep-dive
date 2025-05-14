@@ -55,7 +55,7 @@ Labs use GitHub Classroom, where you'll:
 | | | | Lab 1|
 | Week 2 | Asymptotics | [Asymptotic Analysis Explained](https://youtu.be/TdPFZLPkPNE) | [Quiz 2](https://docs.google.com/document/d/1FU-Kr4A2BaMsaRyJKzZ2fbiUR04nqJcuEEkmIM9fOkU/edit?usp=sharing) |
 | | | | [Assignment 1](https://docs.google.com/document/d/1i0FRQT-tFdPttXnp5b-foclHR3lJslYozPLhFIo3eMc/edit?usp=sharing) |
-| Week 3 | Divide and conquer | [Recurrence Relations & Recurrence Tree Method](https://youtu.be/jqXjzWIZiyA) | |
+| Week 3 | Divide and conquer | [Recurrence Relations & <br>Recurrence Tree Method](https://youtu.be/jqXjzWIZiyA) | |
 | | | [Master Theorem Explained with Examples](https://youtu.be/aS8ce5B64yU)| [Quiz 3](https://docs.google.com/document/d/1-me6Ale3Z3sZWuMyGhZlG7v8vZfOwYj4ucEsoJwbmq8/edit?usp=sharing) |
 | | | | [Problem 2](https://docs.google.com/document/d/16-Kx34G5W1rkZHESQsOg3oO_cx78GVA-UbjHF5Qfct0/edit?usp=sharing) |
 | Week 4 | Quick sort and <br>probability analysis | [Understanding Quicksort](https://youtu.be/XhGOEuQdAAs) | |
