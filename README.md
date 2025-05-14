@@ -22,13 +22,13 @@ This course is designed for anyone who wants to deepen their understanding of al
 
 By the end of this course, you will have a solid understanding of:
 
-* Core mathematical tools: asymptotic notation, recurrence relations, loop invariants
+* Core mathematical tools: asymptotic notation, recurrence tree method, substitution method, and the master theorem
 * Complexity analysis techniques: worst-case, average-case, probabilistic, and amortized analysis
-* In-depth understanding of sorting algorithms (like quicksort, mergesort, heapsort)
-* Data structures such as heaps, hash tables, and binary search trees
-* The divide-and-conquer paradigm and how to analyze it
-* How to derive time complexities from first principles
-* How to apply mathematical reasoning in correctness proofs
+* Sorting algorithms: insertion sort, quicksort, mergesort, heapsort
+* Data structures: heaps, hashtables, and binary search trees
+* The divide-and-conquer paradigm and how to analyze its time complexity
+* How to analyze the time complexity of algorithms using mathematical reasoning
+* How to analyze the time complexity of data structures
 
 ## 🧪 Weekly Content & Interactive Assignments
 
