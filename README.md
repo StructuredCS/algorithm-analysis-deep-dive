@@ -4,13 +4,15 @@
 
 Algorithm Analysis Deep Dive began as a part of a flipped classroom experience designed for college students. But as the lectures went online, I realized they were helping a much wider audience — especially self-taught programmers and bootcamp graduates who never had the chance to study algorithm analysis rigorously. That's why I've decided to open access the course, and share the full learning experience.
 
-This is not just a coding tutorial — it's a university-level exploration of how to analyze algorithms and data structures with mathematical precision. We emphasize understanding why algorithms work, not just how to write them, and focus heavily on deriving and reasoning about time complexity.
+This is not just a coding tutorial — it's a university-level exploration of how to analyze algorithms and data structures with mathematical precision, a topic often glossed over in many coding bootcamps and self-study resources, and one that AI tools like ChatGPT struggle to explain and often hullucinate on. In this course, we emphasize understanding why algorithms work, not just how to write them, and focus heavily on deriving and reasoning about time complexity.
 
 The course is organized into weekly modules. Each week includes curated lecture videos, quizzes, and hands-on coding labs with automated feedback. You can:
 
 * [binge watch the full playlist here](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4TYTBwPFrGkXDJ1Xh4IHyv)
 * follow along with the course structure below
 * jump into topics that interest you most using [the content table below](#-weekly-content--interactive-assignments)
+
+<p style="color: grey;"><em>If you find this helpful, consider subscribing to <a href="https://www.youtube.com/@structuredcs">@structuredcs</a> and sharing it with others. Your support helps more learners discover quality, accessible resources.</em></p>
 
 ## 🧠 Who This Course Is For
 
