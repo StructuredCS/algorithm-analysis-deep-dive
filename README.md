@@ -10,7 +10,7 @@ The course is organized into weekly modules. Each week includes curated lecture 
 
 * [binge watch the full playlist here](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4TYTBwPFrGkXDJ1Xh4IHyv)
 * follow along with the course structure below
-* jump into topics that interest you most using the content table below
+* jump into topics that interest you most using [the content table below](#-weekly-content-interactive-assignments)
 
 ## 🧠 Who This Course Is For
 
@@ -27,7 +27,7 @@ The prerequisites are minimal:
 * a basic understanding of programming concepts
 * a basic understanding of linear data structures, such as arrays and linked lists
 * a basic understanding of recursion and iteration
-* a basic understanding of one programming language (Python, Java, C++, etc.)
+* a basic understanding of at least one programming language (Python, Java, C++, etc.)
 
 ## 🎯 What You'll Learn
 
@@ -41,7 +41,7 @@ By the end of this course, you will have a solid understanding of:
 * How to analyze the time complexity of algorithms using mathematical reasoning
 * How to analyze the time complexity of data structures
 
-## 🧪 Weekly Content & Interactive Assignments
+[## 🧪 Weekly Content & Interactive Assignments](#-weekly-content-interactive-assignments)
 
 This course is more than just lectures — it's a full learning experience designed to help you apply what you've learned and get feedback automatically, just like a structured university course. The course is structured to be language-agnostic. Each week comes with:
 
