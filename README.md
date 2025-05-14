@@ -2,11 +2,15 @@
 
 ## 📘 Course Overview
 
-Algorithm Analysis Deep Dive began as a part of a flipped classroom experience I designed for college students. But as the lectures went online, I realized they were helping a much wider audience — especially self-taught programmers and bootcamp graduates who never had the chance to study algorithm analysis rigorously. That's why I've decided to open access the course, and share the full learning experience.
+Algorithm Analysis Deep Dive began as a part of a flipped classroom experience designed for college students. But as the lectures went online, I realized they were helping a much wider audience — especially self-taught programmers and bootcamp graduates who never had the chance to study algorithm analysis rigorously. That's why I've decided to open access the course, and share the full learning experience.
 
-This is not just a coding tutorial — it's a university-level exploration of how to analyze algorithms and data structures mathematically. We emphasize understanding why algorithms work, not just how to write them, and focus heavily on deriving and reasoning about time complexity.
+This is not just a coding tutorial — it's a university-level exploration of how to analyze algorithms and data structures with mathematical precision. We emphasize understanding why algorithms work, not just how to write them, and focus heavily on deriving and reasoning about time complexity.
 
-You can watch [the full playlist here](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4TYTBwPFrGkXDJ1Xh4IHyv), or **follow along with the course structure below**. Each week includes a set of lecture videos, quizzes, and hands-on coding labs to help you apply what you've learned.
+The course is organized into weekly modules. Each week includes curated lecture videos, quizzes, and hands-on coding labs with automated feedback. You can:
+
+* [binge watch the full playlist here](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4TYTBwPFrGkXDJ1Xh4IHyv)
+* follow along with the course structure below
+* jump into topics that interest you most using the content table below
 
 ## 🧠 Who This Course Is For
 
@@ -17,6 +21,13 @@ This course is designed for anyone who wants to deepen their understanding of al
 * Students preparing for coding interviews who struggle with complexity analysis
 * Students who've taken an algorithms course before but found the math abstract, non-intuitive, or disconnected from the actual code
 * Anyone who's tried to memorize time complexity by brute force — and now wants to truly understand it
+
+The prerequisites are minimal:
+
+* a basic understanding of programming concepts
+* a basic understanding of linear data structures, such as arrays and linked lists
+* a basic understanding of recursion and iteration
+* a basic understanding of one programming language (Python, Java, C++, etc.)
 
 ## 🎯 What You'll Learn
 
@@ -32,9 +43,7 @@ By the end of this course, you will have a solid understanding of:
 
 ## 🧪 Weekly Content & Interactive Assignments
 
-This course is more than just lectures — it's a full learning experience designed to help you apply what you've learned and get feedback automatically, just like a structured university course.
-
-Each week comes with:
+This course is more than just lectures — it's a full learning experience designed to help you apply what you've learned and get feedback automatically, just like a structured university course. The course is structured to be language-agnostic. Each week comes with:
 
 * A set of lecture videos (YouTube playlist)
 * One or more conceptual assignments or quizzes
@@ -42,10 +51,12 @@ Each week comes with:
 
 Labs use GitHub, Github Actions and GitHub Classroom, where you'll:
 
-* Submit your code
+* Submit your code via version control
 * **Receive immediate automated feedback via GitHub Actions**
 * Learn through test-driven development
 * You don't need to be enrolled anywhere — just a GitHub account is enough to participate.
+
+The current lab setup is designed for Java. The setups for other languages are in the works, and they will be added when ready.
 
 | Week | Topic | Videos | Assignments |
 |------|-------|--------|-------------|
@@ -65,16 +76,15 @@ Labs use GitHub, Github Actions and GitHub Classroom, where you'll:
 | | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) | [Problem 6](https://docs.google.com/document/d/1C-r7XTbeJ5QpVD4yVvtHbbiMyV9FbciKiZ_ha95450M/edit?usp=sharing) |
 | | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) | **Lab 3** |
 | Week 6 | Hashtables | [How Hash Functions Work](https://youtu.be/Z43QoUzU5uE) | [Quiz 7](https://docs.google.com/document/d/1iA98z82cX85ra1_uA34v5s168ONLP-lKeK5FDI3TioY/edit?usp=sharing) |
-| | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) |  |
+| | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) | Problem 7-8 |
 | | | [Understanding Chaining](https://youtu.be/3BKp1l8WYhc) | **Lab 4** |
-| Week 7 | Binary search trees | Search Operation & <br>Time Complexity Explained | |
-| | | The Insert Method Explained | |
-| | | The Delete Method Explained | |
-| | | Traversal | |
-| | | | Lab 5|
-| Week 8 | Amortized analysis | Aggregate Method Explained with Examples | |
-| | | Accounting Method Explained with Examples | |
-| | | Potential Method Explained with Examples | |
+| Week 7 | Binary search trees | [Search Operation & <br>Time Complexity Explained](https://youtu.be/NN8xJflPbaU) | |
+| | | [The Insert Method Explained](https://youtu.be/adz2MYaZ4qY) | |
+| | | [The Delete Method Explained](https://youtu.be/Pgb_GpMWPXo) | |
+| | | [Traversal](https://youtu.be/ZxxnhfjS-wY) | |
+| Week 8 | Amortized analysis | [Aggregate Method Explained with Examples](https://youtu.be/sCaPH2ogogg) | |
+| | | [Accounting Method Explained with Examples](https://youtu.be/EI5fST7z27o) | |
+| | | [Potential Method Explained with Examples](https://youtu.be/zUxWjC9WSJM) | |
 
 
 ## 💬 Join the Discussion
