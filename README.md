@@ -49,32 +49,26 @@ Labs use GitHub Classroom, where you'll:
 
 | Week | Topic | Videos | Assignments |
 |------|-------|--------|-------------|
-| Week 1 | Introduction to algorithms | [Best & Worst Case Analysis Explained](https://youtu.be/Ye6puk0LhwU)| |
-| | | [Step-by-Step Analysis of Insertion Sort](https://youtu.be/9LN-tteG0l0)| [Quiz 1](https://docs.google.com/document/d/1PClb1o2UcZQSQG5B3Ptg959xZCAyYuciqmhKX5535Io/edit?usp=sharing) |
-| | | | [Problem 1](https://docs.google.com/document/d/15-nIma2gogszhGfsyvyfc7kIr6LAJd6VYPfaqLz1S0I/edit?usp=sharing) |
+| Week 1 | Introduction to algorithms | [Best & Worst Case Analysis Explained](https://youtu.be/Ye6puk0LhwU)| [Quiz 1](https://docs.google.com/document/d/1PClb1o2UcZQSQG5B3Ptg959xZCAyYuciqmhKX5535Io/edit?usp=sharing) |
+| | | [Step-by-Step Analysis of Insertion Sort](https://youtu.be/9LN-tteG0l0)| [Problem 1](https://docs.google.com/document/d/15-nIma2gogszhGfsyvyfc7kIr6LAJd6VYPfaqLz1S0I/edit?usp=sharing) |
 | | | | Lab 1|
 | Week 2 | Asymptotics | [Asymptotic Analysis Explained](https://youtu.be/TdPFZLPkPNE) | [Quiz 2](https://docs.google.com/document/d/1FU-Kr4A2BaMsaRyJKzZ2fbiUR04nqJcuEEkmIM9fOkU/edit?usp=sharing) |
 | | | | [Assignment 1](https://docs.google.com/document/d/1i0FRQT-tFdPttXnp5b-foclHR3lJslYozPLhFIo3eMc/edit?usp=sharing) |
-| Week 3 | Divide and conquer | [Recurrence Relations & <br>Recurrence Tree Method](https://youtu.be/jqXjzWIZiyA) | |
-| | | [Master Theorem Explained with Examples](https://youtu.be/aS8ce5B64yU)| [Quiz 3](https://docs.google.com/document/d/1-me6Ale3Z3sZWuMyGhZlG7v8vZfOwYj4ucEsoJwbmq8/edit?usp=sharing) |
-| | | | [Problem 2](https://docs.google.com/document/d/16-Kx34G5W1rkZHESQsOg3oO_cx78GVA-UbjHF5Qfct0/edit?usp=sharing) |
-| Week 4 | Quick sort and <br>probability analysis | [Understanding Quicksort](https://youtu.be/XhGOEuQdAAs) | |
-| | | [Average-Case Complexity, Expected <br>Value & Randomized Quicksort](https://youtu.be/M0O-s2y0O9I) | [Quiz 4](https://docs.google.com/document/d/1JHpZxrnRD7RKn0P-22Xv3pO_ECiBzep5L0VmUsk_3Io/edit?usp=sharing) |
-| | | | [Problem 3](https://docs.google.com/document/d/1QbHFdegvk0j3fbPysIwiU9yI6Y3lrjVDMypWJr7K1Bc/edit?usp=sharing) |
+| Week 3 | Divide and conquer | [Recurrence Relations & <br>Recurrence Tree Method](https://youtu.be/jqXjzWIZiyA) | [Quiz 3](https://docs.google.com/document/d/1-me6Ale3Z3sZWuMyGhZlG7v8vZfOwYj4ucEsoJwbmq8/edit?usp=sharing) |
+| | | [Master Theorem Explained with Examples](https://youtu.be/aS8ce5B64yU)| [Problem 2](https://docs.google.com/document/d/16-Kx34G5W1rkZHESQsOg3oO_cx78GVA-UbjHF5Qfct0/edit?usp=sharing) |
+| Week 4 | Quick sort and <br>probability analysis | [Understanding Quicksort](https://youtu.be/XhGOEuQdAAs) | [Quiz 4](https://docs.google.com/document/d/1JHpZxrnRD7RKn0P-22Xv3pO_ECiBzep5L0VmUsk_3Io/edit?usp=sharing) |
+| | | [Average-Case Complexity, Expected <br>Value & Randomized Quicksort](https://youtu.be/M0O-s2y0O9I) | [Problem 3](https://docs.google.com/document/d/1QbHFdegvk0j3fbPysIwiU9yI6Y3lrjVDMypWJr7K1Bc/edit?usp=sharing) |
 | | | | [Problem 4](https://docs.google.com/document/d/1t-nB2NzWQyq_uhoSJPT_6HHC1RbODhACLhYtSvgUQEw/edit?usp=sharing) |
 | | | | [Problem 5](https://docs.google.com/document/d/1fkNMCj7hV3faurLJRh1Rr6XbHKvWja1Lmz0pUersooQ/edit?usp=sharing) |
 | | | | Lab 2|
 | | | | [Assignment 2](https://docs.google.com/document/d/1AyGOX4SYYp25lpnus1-VwxmtB9vXaHw7hc2l9UZXXeM/edit?usp=sharing) |
-| Week 5  | Heaps | [Understanding Heap Properties](https://youtu.be/IGbHcofDbFs) | | 
-| | | [Insert & Peek Methods Explained](https://youtu.be/QSmCO-9HCcQ) | [Quiz 5](https://docs.google.com/document/d/1bdhzd8xujyFB6TyhDft2fD3UYasClTsPYJ0SVMeNwGA/edit?usp=sharing) |
-| | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) | |
-| | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) | [Quiz 6](https://docs.google.com/document/d/1_X_jlrd3_Be5C5CfRSLkjiCT-BCR5u0are1jEOE49xQ/edit?usp=sharing) |
-| | | | [Problem 6](https://docs.google.com/document/d/1C-r7XTbeJ5QpVD4yVvtHbbiMyV9FbciKiZ_ha95450M/edit?usp=sharing) |
-| | | | Lab 3|
-| Week 6 | Hashtables | [How Hash Functions Work](https://youtu.be/Z43QoUzU5uE) | |
-| | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) | |
-| | | [Understanding Chaining](https://youtu.be/3BKp1l8WYhc) | [Quiz 7](https://docs.google.com/document/d/1iA98z82cX85ra1_uA34v5s168ONLP-lKeK5FDI3TioY/edit?usp=sharing) |
-| | | | Lab 4|
+| Week 5  | Heaps | [Understanding Heap Properties](https://youtu.be/IGbHcofDbFs) | [Quiz 5](https://docs.google.com/document/d/1bdhzd8xujyFB6TyhDft2fD3UYasClTsPYJ0SVMeNwGA/edit?usp=sharing) | 
+| | | [Insert & Peek Methods Explained](https://youtu.be/QSmCO-9HCcQ) | [Quiz 6](https://docs.google.com/document/d/1_X_jlrd3_Be5C5CfRSLkjiCT-BCR5u0are1jEOE49xQ/edit?usp=sharing) |
+| | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) | [Problem 6](https://docs.google.com/document/d/1C-r7XTbeJ5QpVD4yVvtHbbiMyV9FbciKiZ_ha95450M/edit?usp=sharing) |
+| | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) | Lab 3 |
+| Week 6 | Hashtables | [How Hash Functions Work](https://youtu.be/Z43QoUzU5uE) | [Quiz 7](https://docs.google.com/document/d/1iA98z82cX85ra1_uA34v5s168ONLP-lKeK5FDI3TioY/edit?usp=sharing) |
+| | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) | Lab 4 |
+| | | [Understanding Chaining](https://youtu.be/3BKp1l8WYhc) |  |
 | Week 7 | Binary search trees | Search Operation & <br>Time Complexity Explained | |
 | | | The Insert Method Explained | |
 | | | The Delete Method Explained | |
