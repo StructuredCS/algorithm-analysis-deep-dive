@@ -69,7 +69,7 @@ Labs use GitHub Classroom, where you'll:
 | | | [Insert & Peek Methods Explained](https://youtu.be/QSmCO-9HCcQ) | [Quiz 5](https://docs.google.com/document/d/1bdhzd8xujyFB6TyhDft2fD3UYasClTsPYJ0SVMeNwGA/edit?usp=sharing) |
 | | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) | |
 | | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) | [Quiz 6](https://docs.google.com/document/d/1_X_jlrd3_Be5C5CfRSLkjiCT-BCR5u0are1jEOE49xQ/edit?usp=sharing) |
-| | | [Problem 6](https://docs.google.com/document/d/1C-r7XTbeJ5QpVD4yVvtHbbiMyV9FbciKiZ_ha95450M/edit?usp=sharing) | |
+| | | | [Problem 6](https://docs.google.com/document/d/1C-r7XTbeJ5QpVD4yVvtHbbiMyV9FbciKiZ_ha95450M/edit?usp=sharing) |
 | | | | Lab 3|
 | Week 6 | Hashtables | [How Hash Functions Work](https://youtu.be/Z43QoUzU5uE) | |
 | | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) | |
