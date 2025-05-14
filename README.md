@@ -57,9 +57,7 @@ Labs use GitHub Classroom, where you'll:
 | Week 3 | Divide and conquer | [Recurrence Relations & <br>Recurrence Tree Method](https://youtu.be/jqXjzWIZiyA) | [Quiz 3](https://docs.google.com/document/d/1-me6Ale3Z3sZWuMyGhZlG7v8vZfOwYj4ucEsoJwbmq8/edit?usp=sharing) |
 | | | [Master Theorem Explained with Examples](https://youtu.be/aS8ce5B64yU)| [Problem 2](https://docs.google.com/document/d/16-Kx34G5W1rkZHESQsOg3oO_cx78GVA-UbjHF5Qfct0/edit?usp=sharing) |
 | Week 4 | Quick sort and <br>probability analysis | [Understanding Quicksort](https://youtu.be/XhGOEuQdAAs) | [Quiz 4](https://docs.google.com/document/d/1JHpZxrnRD7RKn0P-22Xv3pO_ECiBzep5L0VmUsk_3Io/edit?usp=sharing) |
-| | | [Average-Case Complexity, Expected <br>Value & Randomized Quicksort](https://youtu.be/M0O-s2y0O9I) | [Problem 3](https://docs.google.com/document/d/1QbHFdegvk0j3fbPysIwiU9yI6Y3lrjVDMypWJr7K1Bc/edit?usp=sharing) |
-| | | | [Problem 4](https://docs.google.com/document/d/1t-nB2NzWQyq_uhoSJPT_6HHC1RbODhACLhYtSvgUQEw/edit?usp=sharing) |
-| | | | [Problem 5](https://docs.google.com/document/d/1fkNMCj7hV3faurLJRh1Rr6XbHKvWja1Lmz0pUersooQ/edit?usp=sharing) |
+| | | [Average-Case Complexity, Expected <br>Value & Randomized Quicksort](https://youtu.be/M0O-s2y0O9I) | [Problem 3-5](https://docs.google.com/document/d/1QbHFdegvk0j3fbPysIwiU9yI6Y3lrjVDMypWJr7K1Bc/edit?usp=sharing) |
 | | | | Lab 2|
 | | | | [Assignment 2](https://docs.google.com/document/d/1AyGOX4SYYp25lpnus1-VwxmtB9vXaHw7hc2l9UZXXeM/edit?usp=sharing) |
 | Week 5  | Heaps | [Understanding Heap Properties](https://youtu.be/IGbHcofDbFs) | [Quiz 5](https://docs.google.com/document/d/1bdhzd8xujyFB6TyhDft2fD3UYasClTsPYJ0SVMeNwGA/edit?usp=sharing) | 
