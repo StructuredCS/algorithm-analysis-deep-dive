@@ -10,7 +10,7 @@ The course is organized into weekly modules. Each week includes curated lecture 
 
 * [binge watch the full playlist here](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4TYTBwPFrGkXDJ1Xh4IHyv)
 * follow along with the course structure below
-* jump into topics that interest you most using [the content table below](#-weekly-content-interactive-assignments)
+* jump into topics that interest you most using [the content table below](#weekly-content-interactive-assignments)
 
 ## 🧠 Who This Course Is For
 
@@ -41,7 +41,7 @@ By the end of this course, you will have a solid understanding of:
 * How to analyze the time complexity of algorithms using mathematical reasoning
 * How to analyze the time complexity of data structures
 
-[## 🧪 Weekly Content & Interactive Assignments](#-weekly-content-interactive-assignments)
+[## 🧪 Weekly Content & Interactive Assignments](#weekly-content-interactive-assignments)
 
 This course is more than just lectures — it's a full learning experience designed to help you apply what you've learned and get feedback automatically, just like a structured university course. The course is structured to be language-agnostic. Each week comes with:
 
