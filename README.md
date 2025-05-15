@@ -4,13 +4,15 @@
 
 Algorithm Analysis Deep Dive began as a part of a flipped classroom experience designed for university students ([more about me](https://qhao.info)). As the lectures went online, I realized they were helping a much wider audience — especially self-taught programmers and bootcamp graduates who never had the chance to study algorithm analysis rigorously. That's why I've decided to open access the course, and share the full learning experience.
 
-This is not just a coding tutorial — it's a university-level exploration of how to analyze algorithms and data structures with mathematical precision, a topic often glossed over in many coding bootcamps and self-study resources, and one that AI tools like ChatGPT struggle to explain and often hullucinate on. In this course, we emphasize understanding why algorithms work, not just how to write them, and focus heavily on deriving and reasoning about time complexity.
+This is not just a coding tutorial — it's a full university-level learning experience in algorithm and data structure analysis, a topic often glossed over in bootcamps and self-study resources, and one that AI tools like ChatGPT frequently struggle to explain accurately. The course emphasizes understanding why algorithms work, not just how to implement them, with a strong focus on deriving and reasoning about time complexity.
 
-The course is organized into weekly modules. Each week includes curated lecture videos, quizzes, and hands-on coding labs with automated feedback. You can:
+The course is organized into weekly modules of eight weeks. Each week includes curated lecture videos, quizzes, and hands-on coding labs with automated feedback. You can:
 
 * [Binge watch the full playlist here](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4TYTBwPFrGkXDJ1Xh4IHyv)
 * Or follow along with [the course structure below](#-weekly-content--interactive-assignments)
 * Or jump into topics that interest you most using [the content table below](#-weekly-content--interactive-assignments)
+
+If you find this course helpful, consider giving this repo a star ⭐️, sharing it with your network, or subscribing to [**@StructuredCS on YouTube**](https://www.youtube.com/@structuredcs). Your support helps more learners discover quality, accessible resources. 
 
 ## 🧠 Who This Course Is For
 
@@ -62,22 +64,22 @@ The current lab setup is designed for **Java**. The setups for other languages a
 |------|-------|--------|-------------|
 | Week 1 | Introduction to algorithms | [Best & Worst Case Analysis Explained](https://youtu.be/Ye6puk0LhwU)| [Quiz 1](https://docs.google.com/document/d/1PClb1o2UcZQSQG5B3Ptg959xZCAyYuciqmhKX5535Io/edit?usp=sharing) |
 | | | [Step-by-Step Analysis of Insertion Sort](https://youtu.be/9LN-tteG0l0)| [Problem 1](https://docs.google.com/document/d/15-nIma2gogszhGfsyvyfc7kIr6LAJd6VYPfaqLz1S0I/edit?usp=sharing) |
-| | | | **Lab 1**|
+| | | | [**Lab 1**](https://docs.google.com/document/d/1m427yvKV19ESz8GZIrMKYjJkzWRFk2UojCoTCCe4gbs/edit?usp=sharing) |
 | Week 2 | Asymptotics | [Asymptotic Analysis Explained](https://youtu.be/TdPFZLPkPNE) | [Quiz 2](https://docs.google.com/document/d/1FU-Kr4A2BaMsaRyJKzZ2fbiUR04nqJcuEEkmIM9fOkU/edit?usp=sharing) |
 | | | | [Assignment 1](https://docs.google.com/document/d/1i0FRQT-tFdPttXnp5b-foclHR3lJslYozPLhFIo3eMc/edit?usp=sharing) |
 | Week 3 | Divide and conquer | [Recurrence Relations & <br>Recurrence Tree Method](https://youtu.be/jqXjzWIZiyA) | [Quiz 3](https://docs.google.com/document/d/1-me6Ale3Z3sZWuMyGhZlG7v8vZfOwYj4ucEsoJwbmq8/edit?usp=sharing) |
 | | | [Master Theorem Explained with Examples](https://youtu.be/aS8ce5B64yU)| [Problem 2](https://docs.google.com/document/d/16-Kx34G5W1rkZHESQsOg3oO_cx78GVA-UbjHF5Qfct0/edit?usp=sharing) |
 | Week 4 | Quick sort and <br>probability analysis | [Understanding Quicksort](https://youtu.be/XhGOEuQdAAs) | [Quiz 4](https://docs.google.com/document/d/1JHpZxrnRD7RKn0P-22Xv3pO_ECiBzep5L0VmUsk_3Io/edit?usp=sharing) |
 | | | [Average-Case Complexity, Expected <br>Value & Randomized Quicksort](https://youtu.be/M0O-s2y0O9I) | [Problem 3-5](https://docs.google.com/document/d/1QbHFdegvk0j3fbPysIwiU9yI6Y3lrjVDMypWJr7K1Bc/edit?usp=sharing) |
-| | | | **Lab 2**|
+| | | | [**Lab 2**](https://docs.google.com/document/d/11xeCwWmB2DcXtvO5Rfhh0RIFbmm3sOjf5sHmz3P7Hp0/edit?usp=sharing) |
 | | | | [Assignment 2](https://docs.google.com/document/d/1AyGOX4SYYp25lpnus1-VwxmtB9vXaHw7hc2l9UZXXeM/edit?usp=sharing) |
 | Week 5  | Heaps | [Understanding Heap Properties](https://youtu.be/IGbHcofDbFs) | [Quiz 5](https://docs.google.com/document/d/1bdhzd8xujyFB6TyhDft2fD3UYasClTsPYJ0SVMeNwGA/edit?usp=sharing) | 
 | | | [Insert & Peek Methods Explained](https://youtu.be/QSmCO-9HCcQ) | [Quiz 6](https://docs.google.com/document/d/1_X_jlrd3_Be5C5CfRSLkjiCT-BCR5u0are1jEOE49xQ/edit?usp=sharing) |
 | | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) | [Problem 6](https://docs.google.com/document/d/1C-r7XTbeJ5QpVD4yVvtHbbiMyV9FbciKiZ_ha95450M/edit?usp=sharing) |
-| | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) | **Lab 3** |
+| | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) | [**Lab 3**](https://docs.google.com/document/d/1lwlJkkjzq5QpSqcw96Uvzdf4WsHA2te9UYuZ3bhYK70/edit?usp=sharing) |
 | Week 6 | Hashtables | [How Hash Functions Work](https://youtu.be/Z43QoUzU5uE) | [Quiz 7](https://docs.google.com/document/d/1iA98z82cX85ra1_uA34v5s168ONLP-lKeK5FDI3TioY/edit?usp=sharing) |
 | | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) | [Problem 7](https://docs.google.com/document/d/1afHJyWHN0YPt-eI8_Q3oZka56eni9N-k93FVCXPcD30/edit?usp=sharing) |
-| | | [Understanding Chaining](https://youtu.be/3BKp1l8WYhc) | **Lab 4** |
+| | | [Understanding Chaining](https://youtu.be/3BKp1l8WYhc) | [**Lab 4**](https://docs.google.com/document/d/1pwQVB2D7f0EE8gzNNSw-AnsnAiG3PdR0RUq1k9JlMPA/edit?usp=sharing) |
 | Week 7 | Binary search trees | [Search Operation & <br>Time Complexity Explained](https://youtu.be/NN8xJflPbaU) | |
 | | | [The Insert Method Explained](https://youtu.be/adz2MYaZ4qY) | |
 | | | [The Delete Method Explained](https://youtu.be/Pgb_GpMWPXo) | |
@@ -98,7 +100,7 @@ If you're working through the labs or lectures and want to discuss challenges, i
 
 ## 🙌 Stay Connected & Support the Course
 
-If you find this course helpful, consider giving this repo a star ⭐️, sharing it with your network, or subscribing to [the YouTube channel **@StructuredCS**](https://www.youtube.com/@structuredcs) — I'm constantly adding new content on various computer science topics. Your support helps more learners discover quality, accessible resources. A like, a share, or a comment goes a long way. If you know someone who might benefit from this course — a fellow learner, colleague, or friend preparing for interviews — feel free to share the playlist or this GitHub repo with them.
+If you find this course helpful, consider giving this repo a star ⭐️, sharing it with your network, or subscribing to [**@StructuredCS on YouTube**](https://www.youtube.com/@structuredcs) — I'm constantly adding new content on various computer science topics. Your support helps more learners discover quality, accessible resources. A like, a share, or a comment goes a long way. If you know someone who might benefit from this course — a fellow learner, colleague, or friend preparing for interviews — feel free to share the playlist or this GitHub repo with them.
 
 ## 📜 License & Attribution
 

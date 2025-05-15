@@ -1,6 +1,6 @@
-# Answers and Samples
+# Answers and Solution Samples for Algorithm Analysis Deep Dive Course
 
-This file provides answers for quizzes and assignments in the Algorithm Analysis Deep Dive course. It's meant to serve as a reference after you've made your own attempt — please try solving each question on your own before peeking!
+This file provides answers for quizzes and assignments and lab solution samples in the Algorithm Analysis Deep Dive course. It's meant to serve as a reference after you've made your own attempt — please try solving each question on your own before peeking!
 
 No solutions are provided for the code writing problems - You can follow the sources of each code wirting problem to find their answers on LeetCode or elsewhere online. The sources are listed at the bottom of each code writing problem document.
 
@@ -17,3 +17,7 @@ No solutions are provided for the code writing problems - You can follow the sou
 | [Quiz 7](https://docs.google.com/document/d/1iA98z82cX85ra1_uA34v5s168ONLP-lKeK5FDI3TioY/edit?usp=sharing) | [Quiz 7 Answer](https://docs.google.com/document/d/1J-0r8uJtezwzHsrDpXZNt0VFHRO-kYEaOHtNtAXwAAQ/edit?usp=sharing) |
 | [Assignment 1](https://docs.google.com/document/d/1i0FRQT-tFdPttXnp5b-foclHR3lJslYozPLhFIo3eMc/edit?usp=sharing) | [Assignment 1 Answer](https://docs.google.com/document/d/1-WX4Iuwo0k1U4h5LknFr7HN0Y3TuWfDryhwbX8prnlk/edit?usp=sharing) |
 | [Assignment 2](https://docs.google.com/document/d/1AyGOX4SYYp25lpnus1-VwxmtB9vXaHw7hc2l9UZXXeM/edit?usp=sharing) | [Assignment 2 Answer](https://docs.google.com/document/d/12gBS9DCPdbJxlw_nattKIbLbSqQNw5wrUyv2z2guZb4/edit?usp=sharing) |
+
+## 👨‍💻 Lab Samples
+
+Lab solution samples will be added as the course progresses. The lab samples are not meant to be the only solution to the problems, but rather a reference for you to compare your own solutions against.
