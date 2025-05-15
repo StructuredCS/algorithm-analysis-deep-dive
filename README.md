@@ -2,17 +2,15 @@
 
 ## 📘 Course Overview
 
-Algorithm Analysis Deep Dive began as a part of a flipped classroom experience designed for college students. But as the lectures went online, I realized they were helping a much wider audience — especially self-taught programmers and bootcamp graduates who never had the chance to study algorithm analysis rigorously. That's why I've decided to open access the course, and share the full learning experience.
+Algorithm Analysis Deep Dive began as a part of a flipped classroom experience designed for university students ([more about me](https://qhao.info)). As the lectures went online, I realized they were helping a much wider audience — especially self-taught programmers and bootcamp graduates who never had the chance to study algorithm analysis rigorously. That's why I've decided to open access the course, and share the full learning experience.
 
 This is not just a coding tutorial — it's a university-level exploration of how to analyze algorithms and data structures with mathematical precision, a topic often glossed over in many coding bootcamps and self-study resources, and one that AI tools like ChatGPT struggle to explain and often hullucinate on. In this course, we emphasize understanding why algorithms work, not just how to write them, and focus heavily on deriving and reasoning about time complexity.
 
 The course is organized into weekly modules. Each week includes curated lecture videos, quizzes, and hands-on coding labs with automated feedback. You can:
 
-* [binge watch the full playlist here](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4TYTBwPFrGkXDJ1Xh4IHyv)
-* follow along with the course structure below
-* jump into topics that interest you most using [the content table below](#-weekly-content--interactive-assignments)
-
-<p style="color: grey;"><em>If you find this helpful, consider subscribing to <a href="https://www.youtube.com/@structuredcs">@structuredcs</a> and sharing it with others. Your support helps more learners discover quality, accessible resources.</em></p>
+* [Binge watch the full playlist here](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4TYTBwPFrGkXDJ1Xh4IHyv)
+* Or follow along with [the course structure below](#-weekly-content--interactive-assignments)
+* Or jump into topics that interest you most using [the content table below](#-weekly-content--interactive-assignments)
 
 ## 🧠 Who This Course Is For
 
@@ -29,7 +27,7 @@ The prerequisites are minimal:
 * a basic understanding of programming concepts
 * a basic understanding of linear data structures, such as arrays and linked lists
 * a basic understanding of recursion and iteration
-* a basic understanding of at least one programming language (Python, Java, C++, etc.)
+* a basic understanding of at least one programming language (Java, Python, C++, etc.)
 
 ## 🎯 What You'll Learn
 
@@ -58,7 +56,7 @@ Labs use GitHub, Github Actions and GitHub Classroom, where you'll:
 * Learn through test-driven development
 * You don't need to be enrolled anywhere — just a GitHub account is enough to participate.
 
-The current lab setup is designed for Java. The setups for other languages are in the works, and they will be added when ready.
+The current lab setup is designed for **Java**. The setups for other languages are in the works, and they will be added when ready.
 
 | Week | Topic | Videos | Assignments |
 |------|-------|--------|-------------|
@@ -78,7 +76,7 @@ The current lab setup is designed for Java. The setups for other languages are i
 | | | [Delete Method Explained](https://youtu.be/e_yaojRRnyI) | [Problem 6](https://docs.google.com/document/d/1C-r7XTbeJ5QpVD4yVvtHbbiMyV9FbciKiZ_ha95450M/edit?usp=sharing) |
 | | | [Building a Heap & Mastering Heap Sort](https://youtu.be/7TnTsK2HjUk) | **Lab 3** |
 | Week 6 | Hashtables | [How Hash Functions Work](https://youtu.be/Z43QoUzU5uE) | [Quiz 7](https://docs.google.com/document/d/1iA98z82cX85ra1_uA34v5s168ONLP-lKeK5FDI3TioY/edit?usp=sharing) |
-| | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) | Problem 7-8 |
+| | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) | [Problem 7](https://docs.google.com/document/d/1afHJyWHN0YPt-eI8_Q3oZka56eni9N-k93FVCXPcD30/edit?usp=sharing) |
 | | | [Understanding Chaining](https://youtu.be/3BKp1l8WYhc) | **Lab 4** |
 | Week 7 | Binary search trees | [Search Operation & <br>Time Complexity Explained](https://youtu.be/NN8xJflPbaU) | |
 | | | [The Insert Method Explained](https://youtu.be/adz2MYaZ4qY) | |
@@ -88,21 +86,20 @@ The current lab setup is designed for Java. The setups for other languages are i
 | | | [Accounting Method Explained with Examples](https://youtu.be/EI5fST7z27o) | |
 | | | [Potential Method Explained with Examples](https://youtu.be/zUxWjC9WSJM) | |
 
+The answers and sample solutions for the quizzes and writing assignments are provided in the [answers.md](answers.md) file for your reference. Please try to solve each question on your own before looking at the answers.
 
 ## 💬 Join the Discussion
 
 If you're working through the labs or lectures and want to discuss challenges, ideas, or solutions with others:
 
-* Start a GitHub Discussion in this repo
-* Leave a comment on the relevant YouTube video
-* Or tag me on LinkedIn if you're sharing your progress
+* [Start a GitHub Discussion in this repo](https://github.com/Neo-Hao/algorithm-analysis-deep-dive/discussions)
+* [Leave a comment on the relevant YouTube video](https://www.youtube.com/@structuredcs)
+* [Or tag me on LinkedIn if you're sharing your progress](https://www.linkedin.com/in/qiang-hao-4984023b/)
 
 ## 🙌 Stay Connected & Support the Course
 
-If you find this course helpful, consider subscribing to [the YouTube channel **@StructuredCS**](https://www.youtube.com/@structuredcs) — I'm constantly adding new content on computer science topics, algorithms, and systems thinking. Your support helps more learners discover quality, accessible resources. A like, a share, or a comment goes a long way. If you know someone who might benefit from this course — a fellow learner, colleague, or friend preparing for interviews — feel free to share the playlist or this GitHub repo with them.
-
-While this course focuses on algorithms, I've also written a book for those interested in database fundamentals. It's called **Grokking Relational Database Design** and is available on [Manning Publications](https://www.manning.com/books/grokking-relational-database-design) and Amazon. Ideal for developers and students who want to master the art of database design.
+If you find this course helpful, consider giving this repo a star ⭐️, sharing it with your network, or subscribing to [the YouTube channel **@StructuredCS**](https://www.youtube.com/@structuredcs) — I'm constantly adding new content on various computer science topics. Your support helps more learners discover quality, accessible resources. A like, a share, or a comment goes a long way. If you know someone who might benefit from this course — a fellow learner, colleague, or friend preparing for interviews — feel free to share the playlist or this GitHub repo with them.
 
 ## 📜 License & Attribution
 
-This course is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share the content as long as you provide appropriate credit. The course materials are based on my own experiences and research, and I encourage you to adapt them for your own learning or teaching purposes.
+This course is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share the content as long as you provide appropriate credit. The course materials come from various sources, including my own lectures and resources from other educators. I have made every effort to credit the original authors and sources of the materials used in this course. If you notice any omissions or errors, please let me know so I can correct them. The materials are provided for educational purposes only, and I encourage you to adapt them for your own learning or teaching purposes.
