@@ -8,11 +8,11 @@ This is not just a coding tutorial — it's a full university-level learning exp
 
 The course is organized into weekly modules of eight weeks. Each week includes curated lecture videos, quizzes, and hands-on coding labs with automated feedback. You can:
 
-* [Binge watch the full playlist here](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4TYTBwPFrGkXDJ1Xh4IHyv)
+* [Binge watch the full playlist](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4TYTBwPFrGkXDJ1Xh4IHyv)
 * Or follow along with [the course structure below](#-weekly-content--interactive-assignments)
 * Or jump into topics that interest you most using [the content table below](#-weekly-content--interactive-assignments)
 
-If you find this course helpful, consider giving this repo a star ⭐️, sharing it with your network, or subscribing to [**@StructuredCS on YouTube**](https://www.youtube.com/@structuredcs). Your support helps more learners discover quality, accessible resources. 
+If you find this course helpful, consider giving this repo a star ⭐️, sharing it with your network, and subscribing to [**@StructuredCS on YouTube**](https://www.youtube.com/@structuredcs). Your support helps more learners discover quality, accessible resources. 
 
 ## 🧠 Who This Course Is For
 
@@ -80,8 +80,8 @@ The current lab setup is designed for **Java**. The setups for other languages a
 | Week 6 | Hashtables | [How Hash Functions Work](https://youtu.be/Z43QoUzU5uE) | [Quiz 7](https://docs.google.com/document/d/1iA98z82cX85ra1_uA34v5s168ONLP-lKeK5FDI3TioY/edit?usp=sharing) |
 | | | [Understanding Open Addressing](https://youtu.be/haLcAKMqPec) | [Problem 7](https://docs.google.com/document/d/1afHJyWHN0YPt-eI8_Q3oZka56eni9N-k93FVCXPcD30/edit?usp=sharing) |
 | | | [Understanding Chaining](https://youtu.be/3BKp1l8WYhc) | [**Lab 4**](https://docs.google.com/document/d/1pwQVB2D7f0EE8gzNNSw-AnsnAiG3PdR0RUq1k9JlMPA/edit?usp=sharing) |
-| Week 7 | Binary search trees | [Search Operation & <br>Time Complexity Explained](https://youtu.be/NN8xJflPbaU) | |
-| | | [The Insert Method Explained](https://youtu.be/adz2MYaZ4qY) | |
+| Week 7 | Binary search trees | [Search Operation & <br>Time Complexity Explained](https://youtu.be/NN8xJflPbaU) | [Quiz 8](https://docs.google.com/document/d/1RRiLsf3OSIY8AaR9h4DjYydPUx8BbPgOc0ung7JU55s/edit?usp=sharing) |
+| | | [The Insert Method Explained](https://youtu.be/adz2MYaZ4qY) | [Problem 8](https://docs.google.com/document/d/158JDkjWOb-fQTGoqDyy8I1szZduoJkGiRyPPeQsEKm4/edit?usp=sharing) |
 | | | [The Delete Method Explained](https://youtu.be/Pgb_GpMWPXo) | |
 | | | [Traversal](https://youtu.be/ZxxnhfjS-wY) | |
 | Week 8 | Amortized analysis | [Aggregate Method Explained with Examples](https://youtu.be/sCaPH2ogogg) | |
@@ -100,7 +100,7 @@ If you're working through the labs or lectures and want to discuss challenges, i
 
 ## 🙌 Stay Connected & Support the Course
 
-If you find this course helpful, consider giving this repo a star ⭐️, sharing it with your network, or subscribing to [**@StructuredCS on YouTube**](https://www.youtube.com/@structuredcs) — I'm constantly adding new content on various computer science topics. Your support helps more learners discover quality, accessible resources. A like, a share, or a comment goes a long way. If you know someone who might benefit from this course — a fellow learner, colleague, or friend preparing for interviews — feel free to share the playlist or this GitHub repo with them.
+If you find this course helpful, consider giving this repo a star ⭐️, sharing it with your network, and subscribing to [**@StructuredCS on YouTube**](https://www.youtube.com/@structuredcs). Your support helps more learners discover quality, accessible resources. A like, a share, or a comment goes a long way. If you know someone who might benefit from this course — a fellow learner, colleague, or friend preparing for interviews — feel free to share [the playlist](https://www.youtube.com/playlist?list=PL3fg3zQpW0k4TYTBwPFrGkXDJ1Xh4IHyv) or this GitHub repo with them.
 
 ## 📜 License & Attribution
 
