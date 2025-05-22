@@ -82,9 +82,9 @@ The current lab setup is designed for **Java**. The setups for other languages a
 | | | [Understanding Chaining](https://youtu.be/3BKp1l8WYhc) | [**Lab 4**](https://docs.google.com/document/d/1pwQVB2D7f0EE8gzNNSw-AnsnAiG3PdR0RUq1k9JlMPA/edit?usp=sharing) |
 | Week 7 | Binary search trees | [Search Operation & <br>Time Complexity Explained](https://youtu.be/NN8xJflPbaU) | [Quiz 8](https://docs.google.com/document/d/1RRiLsf3OSIY8AaR9h4DjYydPUx8BbPgOc0ung7JU55s/edit?usp=sharing) |
 | | | [The Insert Method Explained](https://youtu.be/adz2MYaZ4qY) | [Problem 8](https://docs.google.com/document/d/158JDkjWOb-fQTGoqDyy8I1szZduoJkGiRyPPeQsEKm4/edit?usp=sharing) |
-| | | [The Delete Method Explained](https://youtu.be/Pgb_GpMWPXo) | |
-| | | [Traversal](https://youtu.be/ZxxnhfjS-wY) | |
-| Week 8 | Amortized analysis | [Aggregate Method Explained with Examples](https://youtu.be/sCaPH2ogogg) | |
+| | | [The Delete Method Explained](https://youtu.be/Pgb_GpMWPXo) | [Assignment 3](https://docs.google.com/document/d/1MRTNm4OkC8Tk-BbGRO6nj6DV_PirCDAnU2HBe2wUjZw/edit?usp=sharing) |
+| | | [Traversal](https://youtu.be/ZxxnhfjS-wY) | [**Lab 5**](https://docs.google.com/document/d/102Gx7wsJhDzBJtTUNGyJTe8ROrWdu98W-kzOr26w7O4/edit?usp=sharing) |
+| Week 8 | Amortized analysis | [Aggregate Method Explained with Examples](https://youtu.be/sCaPH2ogogg) | [Quiz 9](https://docs.google.com/document/d/1WRmLXa4f72bSCfSaSoo60rPJqM6OMDZgGTq9NXo3g9A/edit?usp=sharing) |
 | | | [Accounting Method Explained with Examples](https://youtu.be/EI5fST7z27o) | |
 | | | [Potential Method Explained with Examples](https://youtu.be/zUxWjC9WSJM) | |
 
