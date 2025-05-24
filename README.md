@@ -1,10 +1,20 @@
 # Algorithm Analysis Deep Dive
 
-## 📘 Course Overview
+## Table of Contents
 
 <p align="center">
     <img src="course-overview.png" alt="Course Cover" width="600">
 </p>
+
+- [📘 Course Overview](#-course-overview)
+- [🧠 Who This Course Is For](#-who-this-course-is-for)
+- [🎯 What You'll Learn](#-what-youll-learn)
+- [🧪 Weekly Content & Interactive Assignments](#-weekly-content--interactive-assignments)
+- [💬 Join the Discussion](#-join-the-discussion)
+- [🙌 Stay Connected & Support the Course](#-stay-connected--support-the-course)
+- [📜 License & Attribution](#-license--attribution)
+
+## 📘 Course Overview
 
 Algorithm Analysis Deep Dive began as a part of a flipped classroom experience designed for university students ([more about me](https://qhao.info)). As the lectures went online, I realized they were helping a much wider audience — especially self-taught programmers and bootcamp graduates who never had the chance to study algorithm analysis rigorously. That's why I've decided to open access the course, and share the full learning experience.
 
