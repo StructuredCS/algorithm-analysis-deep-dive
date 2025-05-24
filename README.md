@@ -2,6 +2,10 @@
 
 ## 📘 Course Overview
 
+<p align="center">
+    <img src="course-overview.png" alt="Course Cover" width="600">
+</p>
+
 Algorithm Analysis Deep Dive began as a part of a flipped classroom experience designed for university students ([more about me](https://qhao.info)). As the lectures went online, I realized they were helping a much wider audience — especially self-taught programmers and bootcamp graduates who never had the chance to study algorithm analysis rigorously. That's why I've decided to open access the course, and share the full learning experience.
 
 This is not just a coding tutorial — it's a full university-level learning experience in algorithm and data structure analysis, a topic often glossed over in bootcamps and self-study resources, and one that AI tools like ChatGPT frequently struggle to explain accurately. The course emphasizes understanding why algorithms work, not just how to implement them, with a strong focus on deriving and reasoning about time complexity.
