@@ -1,18 +1,17 @@
 # Algorithm Analysis Deep Dive
 
-## Table of Contents
-
 <p align="center">
     <img src="course-overview.png" alt="Course Cover" width="600">
 </p>
 
-- [📘 Course Overview](#-course-overview)
-- [🧠 Who This Course Is For](#-who-this-course-is-for)
-- [🎯 What You'll Learn](#-what-youll-learn)
-- [🧪 Weekly Content & Interactive Assignments](#-weekly-content--interactive-assignments)
-- [💬 Join the Discussion](#-join-the-discussion)
-- [🙌 Stay Connected & Support the Course](#-stay-connected--support-the-course)
-- [📜 License & Attribution](#-license--attribution)
+## Table of Contents
+
+- [Course Overview](#-course-overview)
+- [Who This Course Is For](#-who-this-course-is-for)
+- [What You'll Learn](#-what-youll-learn)
+- [Weekly Content & Interactive Assignments](#-weekly-content--interactive-assignments)
+- [Join the Discussion](#-join-the-discussion)
+- [Stay Connected & Support the Course](#-stay-connected--support-the-course)
 
 ## 📘 Course Overview
 
