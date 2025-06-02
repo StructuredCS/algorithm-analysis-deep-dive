@@ -56,6 +56,18 @@ By the end of this course, you will have a solid understanding of:
 * How to analyze the time complexity of algorithms using mathematical reasoning
 * How to analyze the time complexity of data structures
 
+## 🧩 Why It Matters
+
+As AI tools like ChatGPT become more prevalent, you may think you can rely on them to generate code, but you need to think again when it comes to algorithm analysis. These tools often struggle with the nuances of time complexity, and give incorrect or incomplete answers & explanations. For example, here is an example where Google AI Overview fails to provide the correct time complexity for the insertion operation in a heap:
+
+```
+Claim: In the average case, a heap allows insertion in O(1) time and deletion of the highest-priority element (e.g., the min value in a min heap) in O(log⁡n) time..
+```
+
+<p align="center">
+    <img src="ai-overview-snapshopt.png" alt="AI overview sample snapshot" width="500">
+</p>
+
 ## 🧪 Weekly Content & Interactive Assignments
 
 This course is more than just lectures — it's a full learning experience designed to help you apply what you've learned and get feedback automatically, just like a structured university course. The course is structured to be language-agnostic. Each week comes with:
