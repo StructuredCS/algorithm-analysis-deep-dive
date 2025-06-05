@@ -61,9 +61,7 @@ By the end of this course, you will have a solid understanding of:
 
 As AI tools like ChatGPT become more prevalent, you may wonder if you can rely on AI to handle algorithm analysis for you. While AI tools can be a helpful tool, these tools often struggle with the nuances of time complexity, and give incorrect or incomplete answers & explanations. For example, here is an example where Google AI Overview fails to provide the correct time complexity for the insertion operation in a heap:
 
-
-> Claim: In the average case, a heap allows insertion in O(1) time and deletion of the highest-priority element (e.g., the min value in a min heap) in O(log⁡n) time.
-> Conclusion: This claim is true.
+> A claim that's true: In the average case, a heap allows insertion in O(1) time and deletion of the highest-priority element (e.g., the min value in a min heap) in O(log⁡n) time.
 
 <p align="center">
     <img src="ai-overview-snapshopt.png" alt="AI overview sample snapshot" width="750">
