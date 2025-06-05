@@ -9,6 +9,7 @@
 - [Course Overview](#-course-overview)
 - [Who This Course Is For](#-who-this-course-is-for)
 - [What You'll Learn](#-what-youll-learn)
+- [Why It Still Matters to Learn Algorithm Analysis](#-why-it-still-matters-to-learn-algorithm-analysis)
 - [Weekly Content & Interactive Assignments](#-weekly-content--interactive-assignments)
 - [Join the Discussion](#-join-the-discussion)
 - [Stay Connected & Support the Course](#-stay-connected--support-the-course)
